@@ -10,6 +10,8 @@
 
 > Cours complémentaire: Communiquer avec une API https://gist.github.com/tomsihap/64c315ad378608a03b9aa2e821e036a3
 
+> Création d'une API avec PHP et MVC https://gist.github.com/tomsihap/17348ad09c632282ecf55d1552d0dd0a
+
 > Exemple d'examen : https://gist.github.com/tomsihap/23ac8bfe00882ee570cf7b8e7f0f4952
 
 ## Exemples du Git
